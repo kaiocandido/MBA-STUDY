@@ -1,6 +1,6 @@
-//importa a biblioteca expressa
+//importa a biblioteca express
 const express = require('express');
-//intancia a bibliote expressa na const app
+//intancia a biblioteca express na const app
 const app = express();
 //inicializando o express com json
 app.use(express.json());
